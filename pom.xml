@@ -40,7 +40,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-ai-openai</artifactId>
-      <version>1.0.0-alpha.20230504.3</version>
+      <version>1.0.0-alpha.20230505.3</version>
     </dependency>
   </dependencies>
 </project>
